@@ -28,7 +28,7 @@ Repository Structure
 ▶ How to Run
 Clone the repository:
 
-git clone https://github.com/<your-username>/Java-Console-Calculator.git
+git clone https://github.com/<lakshmimule333>/Java-Console-Calculator.git
 Navigate into the project folder:
 
 cd Java-Console-Calculator
